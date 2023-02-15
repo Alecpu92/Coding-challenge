@@ -1,0 +1,51 @@
+body{
+    background-image: url(https://cdn.auto.it/images/2019/06/17/170950088-5461324e-c778-4722-a51f-7bffa1443c9a.jpg);
+background-size: cover;
+}
+    header{
+    text-align: center;
+}
+h2{color: lime;
+}
+.logo{
+    width: 200px;
+}
+input{
+    text-align: center;
+}
+main{
+    text-align: left;
+}
+main{
+    color: white;
+}
+div{
+    background-color: lime;
+    padding: 10px;
+}
+.carica{
+    background-color:salmon;
+    width: 300px;
+    height: 5px;
+}
+.carica2{
+    background-color: lawngreen;
+    width: 600px ;
+    height: 5px;
+}
+.carica3{
+    background-color: red;
+    width: 150px;
+    height: 5px;
+}
+.quadrato{
+    background-color: rgba(0,0,0,0.5);
+    width: 800px ;
+    height: 800px;
+    position: relative;
+    left: 250px;
+    top: 150px;
+}
+h4{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
